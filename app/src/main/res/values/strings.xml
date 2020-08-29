@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MeuPocket</string>
+    <string name="digite_o_t_tulo">Digite o título</string>
+    <string name="digite_a_url">Digite a URL</string>
+    <string name="salvar">Salvar</string>
+    <string name="key_usuarios_db">SITES</string>
+    <string name="file_sites">meupocket.sites</string>
 </resources>

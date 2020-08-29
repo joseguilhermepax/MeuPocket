@@ -8,7 +8,8 @@ import br.pro.ednilsonrossi.meupocket.model.Site;
 public class SiteDao {
 
     public static final List<Site> recuperateAll(){
-        ArrayList<Site> arrayList = new ArrayList<>(10);
+
+        ArrayList<Site> arrayList = new ArrayList<>();
 
         arrayList.add(new Site("Google", "www.google.com.br"));
         arrayList.add(new Site("Terra", "www.terra.com.br"));
